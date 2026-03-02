@@ -1,0 +1,14 @@
+[project]
+name = "04-agenti"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "atomic-agents>=2.6.0",
+    "chromadb>=1.1.1",
+    "crewai>=1.6.1",
+    "crewai-tools>=1.6.1",
+    "docling>=2.72.0",
+    "litellm>=1.81.5",
+]

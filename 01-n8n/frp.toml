@@ -1,0 +1,11 @@
+serverAddr = "34.122.119.239"
+# serverAddr = "frp.darklabs.it"
+serverPort = 9001
+auth.token = ""
+
+
+[[proxies]]
+name = "n8n"
+type = "http"
+localPort = 5678
+customDomains = ["prova2.frp.darklabs.it"]

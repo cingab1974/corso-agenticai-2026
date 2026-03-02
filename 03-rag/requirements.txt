@@ -1,0 +1,8 @@
+pypdf
+tiktoken
+chromadb
+litellm
+docling
+transformers
+sentence-transformers
+textual

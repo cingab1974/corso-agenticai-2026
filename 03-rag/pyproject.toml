@@ -1,0 +1,17 @@
+[project]
+name = "03-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb<=1.1.1",
+    "docling>=2.72.0",
+    "docling-core>=2.63.0",
+    "litellm[google]>=1.81.6",
+    "pip>=26.0",
+    "pudb>=2025.1.5",
+    "pypdf>=6.6.2",
+    "textual>=7.5.0",
+    "tiktoken>=0.12.0",
+]

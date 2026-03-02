@@ -1,0 +1,4 @@
+*.sqlite*
+*.bin
+*.aider*
+*.pdf
